@@ -69,3 +69,15 @@ Each assignment demonstrates concepts such as coordinate transformations, interp
 1. Install dependencies:
    ```bash
    pip install pygame numpy matplotlib
+2. Run a script, e.g.:
+  python tema1.py
+
+  python tema7.py
+
+---
+
+## Notes
+
+These assignments showcase fundamental concepts in 2D/3D graphics, algorithms, and game development with Python.
+
+Files score.txt and highscore.txt are used by the Space Invaders project to save results between runs.
