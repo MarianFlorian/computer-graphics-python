@@ -1,8 +1,5 @@
 # Computer Graphics (Python) — Course Assignments
 
-**Author:** Marian Florian Țiță  
-**Course:** Computer Graphics (University assignments)
-
 ## Overview
 This repository contains 7 assignments developed during the **Computer Graphics** course.  
 Each assignment demonstrates concepts such as coordinate transformations, interpolation, rasterization, and simple game development using Python.
